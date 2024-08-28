@@ -61,6 +61,11 @@ const Contact = () => {
                             <h3>Phone</h3>
                             <p>+91 9640XX8846</p>
                         </div>
+                        <div className="contact-item">
+                            <i className="fas fa-map-marker-alt"></i>
+                            <h3>About Me</h3>
+                            <p><a href='https://rahuldev252.github.io/My-portfolio/index.html'>My Portfolio</a> </p>
+                        </div>
                     </div>
 
                     <div className="contact-form">
